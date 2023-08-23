@@ -8,7 +8,7 @@ Research will allow to assess how modifications to the cow's physical environmen
 
 # Chaire de Recherche & Innovation du Canada WELL-E
 
-	WELL-E est une chaire de recherche unique qui implique un large consortium de joueurs dans l’industrie à travers le Québec et l’Ontario, et qui créera un Laboratoire Digital Vivant afin de promouvoir le bien-être des vaches laitières tout en assurant un rendement profitable pour les producteurs.
+WELL-E est une chaire de recherche unique qui implique un large consortium de joueurs dans l’industrie à travers le Québec et l’Ontario, et qui créera un Laboratoire Digital Vivant afin de promouvoir le bien-être des vaches laitières tout en assurant un rendement profitable pour les producteurs.
 
 Le travail de la chaire est basé sur l’utilisation de capteurs distants et d’intelligence artificielle (IA), qui permettront d’augmenter notre capacité à détecter des changements dans le bien-être et la longévité avant l’apparition de symptômes, et qui permettra de générer des prédictions permettant d’aider à la prise de décision, concentrant les efforts sur les animaux qui ont le plus de probabilité de succès à long terme.
 
